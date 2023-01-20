@@ -1,5 +1,5 @@
 {
-    "name": "Test Api Client",
+    "name": "piotrkoziol/test_api_client",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
